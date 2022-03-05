@@ -9,7 +9,7 @@ layout: default
 <div class="posts">
 	<table>
 		<tr>
-			<td><a href="/tags">Tags-List/</a></td>
+			<td><a href="/tags.html">Tags-List/</a></td>
 			<td>&nbsp;-&nbsp;</td>
 			<td>&nbsp;-&nbsp;</td>
 		</tr>
