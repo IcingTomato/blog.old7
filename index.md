@@ -19,7 +19,7 @@ layout: default
 			<td>{{ post.date | date: "%Y-%m-%d" }}</td>
 			<td>
 			{% for tag in post.tags %}
-			<a href="/tag/{{ tag }}/" title="{{ tag }}">{{ tag }}</a>
+			<a href="/tags/{{ tag }}/" title="{{ tag }}">{{ tag }}</a>
 			{% endfor %}
 			</td>
 		</tr>
