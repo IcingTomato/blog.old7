@@ -22,9 +22,9 @@ layout: default
 			<td>&nbsp;-&nbsp;</td>
 		</tr>
 	{% assign tags = site.tags | sort %}
-	{% for tag in tags %}
+	{% for tags in tags %}
 		<tr>
-			<td><a href="/tags/{{ tag[0] }}/" title="{{ tag[0] }}">{{ tag[0] }}</a></td>
+			<td><a href="/tags/{{ tags[0] }}/" title="{{ tags[0] }}">{{ tags[0] }}</a></td>
 			<td>&nbsp;-&nbsp;</td>
 			<td>&nbsp;-&nbsp;</td>
 		</tr>

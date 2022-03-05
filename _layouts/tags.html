@@ -13,13 +13,13 @@ layout: default
 			<td>&nbsp;-&nbsp;</td>
 			<td>&nbsp;-&nbsp;</td>
 		</tr>
-	{% for post in site.tags[page.tag] %}
+	{% for post in site.tags[page.tags] %}
 		<tr>
 			<td><a href="{{  post.url }}" title="{{ post.title }}">{{ post.title }}</a></td>
 			<td>{{ post.date | date: "%Y-%m-%d" }}</td>
 			<td>
-			{% for tag in post.tags %}
-			<a href="/tags/{{ tag }}/" title="{{ tag }}">{{ tag }}</a>
+			{% for tags in post.tags %}
+			<a href="/tags/{{ tag }}/" title="{{ tags }}">{{ tags }}</a>
 			{% endfor %}
 			</td>
 		</tr>
