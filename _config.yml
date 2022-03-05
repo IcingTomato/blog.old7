@@ -1,11 +1,10 @@
 permalink: /:year:month:day/:title
-url: http://h01000110.github.io
-baseurl: /project
+url: http://icing.fun
+baseurl: /
 
 # variables
-name: h01000110
-description: things
-google_verification: null
+name: IcingTomato
+description: Enjoy it while it lasts, because it never does.
 
 
 # File management

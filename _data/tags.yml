@@ -1,50 +1,35 @@
-adblock:
-  name: adblock
-
-css:
-  name: css
+zh-cn:
+  name: zh cn
 
 en-us:
   name: en us
 
-flask:
-  name: flask
-
-javascript:
-  name: javascript
+ja-jp:
+  name: ja jp
 
 jekyll:
   name: jekyll
 
-jquery:
-  name: jquery
+embedded:
+  name: embedded
 
-melhoria:
-  name: melhoria
+language:
+  name: language
 
-modification:
-  name: modification
+linux:
+  name: linux
 
-project:
-  name: project
+networking:
+  name: networking
 
-projeto:
-  name: projeto
-
-pt-br:
-  name: pt br
+programme:
+  name: programme  
 
 python:
   name: python
 
-shell-script:
-  name: shell script
+c-language:
+  name: c language
 
-svg:
-  name: svg
-
-theme:
-  name: theme
-
-youtube:
-  name: youtube
+fpga:
+  name: fpga
