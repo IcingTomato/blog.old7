@@ -1729,11 +1729,13 @@ typedef struct telephoneNumber_list {
 int main()
 {
  int pos;
- tel_list club[11]={{"dummy","",2},
+ tel_list club[11]={
+  {"dummy","",2},
   {"Lee","300-3003",4},
   {"Joe","100-1001",3},
   {"Ken","200-2002",1},
-  {"Lucy","400-4004",-1}};
+  {"Lucy","400-4004",-1}
+  };
  pos=club[0].nidx;
  while (pos != -1) {
   printf("%s %s\n",club[pos].name,club[pos].telno);
