@@ -39,7 +39,7 @@ permalink: /about/
     <h4>About this Blog</h4>
     <p>This pages made by <a href="https://pages.github.com/">GitHub Pages</a> and <a href="http://jekyll.com.cn/">Jekyll</a>. </p>
     <p>Now the website is deployed on <a href="https://www.aliyun.com/">Alibaba Cloud</a>.</p>
-    <img src="/assets/images/atb.png"/>
+    <!--<img src="/assets/images/atb.png"/>-->
     <h4>Career</h4>
     <ul>
         <li><a href="https://www.seeed.cc/">Seeed Studio</a>/<a href="https://www.chaihuo.org/">Chaihuo Maker</a> Products Application Engineer, Product Manager(Wio Terminal for Arduino)</li>
