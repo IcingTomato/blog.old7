@@ -42,7 +42,8 @@ permalink: /about/
     <!--<img src="/assets/images/atb.png"/>-->
     <h4>Career</h4>
     <ul>
-        <li><a href="https://www.seeed.cc/">Seeed Studio</a>/<a href="https://www.chaihuo.org/">Chaihuo Maker</a> Products Application Engineer, Product Manager(Wio Terminal for Arduino)</li>
+        <li>2021-2022 <a href="https://www.seeed.cc/">Seeed Studio</a>/<a href="https://www.chaihuo.org/">Chaihuo Maker</a> Products Application Engineer</li>
+        <li>2022- <a href="https://m5stack.com/">M5Stack</a> Linux/Raspberry Pi Embedded Software Engineer & ESP32 Machine Learning Engineer</li>
     </ul>
     <h4>Some Pages...</h4>
     <p>
@@ -52,9 +53,9 @@ permalink: /about/
         <li><a href="https://icing.fun/post/">403 page</a></li>
         <li><a href="https://icing.fun/500.html">404 page</a></li>
         <li><a href="https://icingtomato.gitee.io/chp/index.html">Rainbow Fart Generater</a></li>
-        <li><a href="http://icingtomato.gitee.io/simple-tool-pages/bilibili-fans/#15261940">Bilibili Fans Counter</a></li>
+        <!--<li><a href="http://icingtomato.gitee.io/simple-tool-pages/bilibili-fans/#15261940">Bilibili Fans Counter</a></li>-->
         <li><a href="http://icingtomato.gitee.io/simple-tool-pages/flip-clock/">Flip Clock</a></li>
-        <li><a href="http://icingtomato.gitee.io/sosdan/index.html">SOS団</a></li>
+        <!--<li><a href="http://icingtomato.gitee.io/sosdan/index.html">SOS団</a></li>-->
     </ul>
     <h4>Friends & Links</h4>
     <p>
@@ -81,7 +82,6 @@ permalink: /about/
     <ul>
         <li><a href="https://www.kyoto-u.ac.jp/ja">京都大学</a></li>
         <li><a href="https://law.kyoto-u.ac.jp/undergraduate/">京都大学-法学部</a></li>
-        <li><a href="https://www.seu.edu.cn/">东南大学</a></li>
         <li><a href="https://www.u-tokyo.ac.jp/ja/index.html">東京大学</a></li>
         <li><a href="https://www.i.u-tokyo.ac.jp/">東京大学大学院-情報理工学系研究科</a></li>
         <li><a href="http://www.tufs.ac.jp/">東京外国語大学</a></li>
