@@ -33,3 +33,6 @@ c-language:
 
 fpga:
   name: fpga
+
+esp32:
+  name: esp32
