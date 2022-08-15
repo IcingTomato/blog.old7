@@ -14,6 +14,8 @@ Most devices with Alexa allow users to activate the device using a wake-word (su
 
 ## 1. Introduction
 
+Source Code is [here](https://github.com/IcingTomato/AlexaM5Core2)
+
 <center>
     <img src="http://icing.fun/img/post/2022/08/15/amazon-alexa-logo-300x93.png" alt="Alexa Logo" title="Alexa Logo" width="300" />
 </center>
