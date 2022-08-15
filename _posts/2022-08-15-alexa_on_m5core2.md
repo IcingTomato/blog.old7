@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Amazon Alexa on M5Core2"
-tags: esp32 embedded
+tags: esp32 embedded en-us
 ---
 
 # Amazon Alexa for M5Core2(ESP32)
