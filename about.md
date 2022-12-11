@@ -12,18 +12,6 @@ permalink: /about/
     夜は短し、遊びよ少年。<br>
     </p>
     </blockquote>
-    <h4>In Brief</h4>
-    <p>
-        The one <s> can use magic </s> who studies Electronic information, Information Security, Computer Science, Japanese, Law, 
-        <strong>BUT he is still a Business English majored student</strong>.
-    </p>
-    <blockquote>
-    <p>
-    莫见乎隐，莫显乎微，故君子慎其独也。<br>
-    There is nothing more visible than what is secret, and nothing more manifest than what is minute. Therefore the superior man is watchful over himself, when he is alone.<br>
-    隠かくれたるより見あらわるるは莫なく、微かすかなるより顕あきらかなるは莫なし。故ゆえに君くん子しは其その独ひとりを慎つつしむなり。<br>
-    </p>
-    </blockquote>
     <h4>Properties</h4>
     <ul>
         <li>Linux User (Debian/Ubuntu/RHel/CentOS/Fedora...)</li>
@@ -50,8 +38,8 @@ permalink: /about/
         Here is some pages I designed. In pursuit of absolute simplicity.
     </p>
     <ul>
-        <li><a href="https://icing.fun/post/">403 page</a></li>
-        <li><a href="https://icing.fun/500.html">404 page</a></li>
+        <li><a href="http://icing.fun/20220815/">403 page</a></li>
+        <li><a href="http://icing.fun/500.html">404 page</a></li>
         <li><a href="https://icingtomato.gitee.io/chp/index.html">Rainbow Fart Generater</a></li>
         <!--<li><a href="http://icingtomato.gitee.io/simple-tool-pages/bilibili-fans/#15261940">Bilibili Fans Counter</a></li>-->
         <li><a href="http://icingtomato.gitee.io/simple-tool-pages/flip-clock/">Flip Clock</a></li>
