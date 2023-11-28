@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "LinkIt Smart 7688/Duo Tutorial"
+tags: embedded mips all_sort_of_embedded_linux zh-cn
+---
+
