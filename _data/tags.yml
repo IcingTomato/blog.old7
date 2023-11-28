@@ -36,3 +36,9 @@ fpga:
 
 esp32:
   name: esp32
+
+all_sort_of_embedded_linux:
+  name: all_sort_of_embedded_linux
+
+mips:
+  name: mips
