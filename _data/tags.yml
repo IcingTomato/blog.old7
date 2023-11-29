@@ -42,3 +42,9 @@ all_sort_of_embedded_linux:
 
 mips:
   name: mips
+
+git:
+  name: git
+
+windows:
+  name: windows
