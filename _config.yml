@@ -9,7 +9,7 @@ description: Enjoy it while it lasts, because it never does.
 
 # File management
 include: [".htaccess"]
-exclude: ["README.md"]
+exclude: ["README.md", "LICENSE"]
 
 # Sass
 sass:
