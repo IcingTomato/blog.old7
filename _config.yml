@@ -18,7 +18,7 @@ sass:
 
 # Plugins
 plugins:
-  - rouge
+  - coderay
 
 # Markdown
 markdown: kramdown
