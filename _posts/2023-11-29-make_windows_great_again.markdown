@@ -6,8 +6,19 @@ tags: windows git zh-cn
 
 # 让 Windows 伟大起来
 
-## WSL 完全使用技巧
+## 如何使用 WSL 在 Windows 上优雅地安装 Linux
 
+### 检视你电脑的版本
+
+必须是运行 Windows 10 版本 2004 及更高版本（内部版本 19041 及更高版本）或 Windows 11 的电脑才能优雅。其他的版本可以参阅[手动安装页](https://learn.microsoft.com/zh-cn/windows/wsl/install-manual)，但是不优雅。
+
+### 安装 WSL 优雅的命令
+
+现在，可以使用单个命令安装运行 WSL 所需的一切内容。 在管理员模式下打开 PowerShell 或 Windows 命令提示符，方法是右键单击并选择“以管理员身份运行”，输入 `wsl --install` 命令，然后重启计算机。
+
+```powershell
+wsl --install
+```
 
 
 ```shell
