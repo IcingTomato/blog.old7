@@ -22,3 +22,4 @@ kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable : false
+    line_numbers: false
