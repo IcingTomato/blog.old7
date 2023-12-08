@@ -28,3 +28,4 @@ kramdown:
     line_numbers: false
   rouge_options:
     line_numbers: false
+highlighter: prism
