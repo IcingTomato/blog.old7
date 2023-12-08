@@ -16,10 +16,15 @@ sass:
   style: :compressed
   sass_dir: _sass
 
+plugins:
+  - rouge
+
 # Markdown
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter_opts:
     disable : false
+    line_numbers: false
+  rouge_options:
     line_numbers: false
